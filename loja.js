@@ -62,7 +62,7 @@ function addProductToCart(event){
             <input type="number" value="1" min="0" class="product-qtd-input">
             <button type="button" class="remove-product-button">Remover</button>
         </td>
-    
+    `
 
     const tableBody = document.querySelector('.cart-table tbody')
     tableBody.append(newCartProduct)
