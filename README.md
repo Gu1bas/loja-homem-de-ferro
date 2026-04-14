@@ -1,6 +1,6 @@
 # 🛒 Loja Homem de Ferro - Desafio DOM
 
-Este projeto é uma landing page de uma loja temática desenvolvida para praticar a manipulação do DOM e a criação de interfaces responsivas.
+Este projeto é uma landing page de uma loja temática desenvolvida para praticar a manipulação do DOM e a criação de interfaces responsivas. Feito em novembro de 2025
 
 ## 🚀 Funcionalidades
 * **Carrinho de Compras:** Adição e remoção dinâmica de produtos utilizando JavaScript.
